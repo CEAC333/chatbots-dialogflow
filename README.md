@@ -19,9 +19,72 @@
 
 ### Chatbots - What they are and how do we build one?
 
+**What is a Bot?**
+
+Bot is a Software that Automates things that we do
+
+*People spend 80% of time in just 3 apps*
+
+*9 out of the 10 top used apps were made by Google and Facebook*
+
+*The technology could permanently change the way humans interact with the digital world*
+
+**What do we need to build a ChatBot?**
+
+- Pretty Complicated Backend
+
+- Data Mining
+
+- Machine Learning
+
+- Natural Language Processing
+
+**Popular Bot Engines**
+
+- API.ai (DialogFlow)
+
+- WIT.ai
+
+- Motion.ai
+
+- OnSequel
+
+- Chatfuel
+
+- Botsify
+
+- ManyChat
+
 ### What can I do with Bots?
 
+**Get customized notifications and news.** A bot can act as a smart newspaper, sending you relevant content as soon as it's published.
+
+**Integrate with other services.** A bot can enrich chats with content from external services like IMDB, Wiki, YouTube, GitHub, Foursquare....
+
+**Create custom tools.** A bot may provide you with alerts, weather forecasts, translations, formatting or other services.
+
+**Build single and multiplayer games.** A bot can play chess and checkers against you, act as host in quiz games, or even take up the dungeon master's dice for an RPG.
+
+**Build social services.** A bot could connect people looking for conversation partners based on common interests or proximity.
+
+**Do virtually anything else.** Except for time travel. They just can't do it. Yet!
+
+### ChatBot behind the scenes
+
+**What do we need before we begin?**
+
+- Facebook Developer's Account
+
+- DialogFlow Account
+
 ### ChatBot Architecture
+
+- Bot Engine (DialogFlow)
+
+- Web Application (On Your Server)
+
+- Chat Platform (Facebook Messenger)
+
 
 
 
